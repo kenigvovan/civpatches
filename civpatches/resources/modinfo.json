@@ -1,0 +1,15 @@
+{
+    "type": "code",
+    "modid": "civpatches",
+    "name": "civpatches",
+    "authors": [
+      "KenigVovan",
+      "Novocain"
+    ],
+    "side": "server",
+    "description": "To be added",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
